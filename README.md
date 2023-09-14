@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have been studying programming for 3 years, mainly dealing with the creation of websites and mobile applications. As languages, I study HTML5, CSS3, JavaScript, MySQL.
 
 * ✉️  You can contact me at [strahil1998@abv.bg](mailto:strahil1998@abv.bg)
-* 🚀  I'm currently working on [Weather App](http://https://github.com/MontanaNesebar/Weather_App)
+* 🚀  I'm currently working on [Weather App](https://github.com/MontanaNesebar/Weather_App)
 * 🧠  I'm learning HTML5, CSS3, JavaScript, MySQL
 * 🤝  I'm open to collaborating on Create mobile app and website
 
