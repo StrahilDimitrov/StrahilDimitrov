@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have been studying programming for 3 years, mainly dealing with the creation of websites and mobile applications. As languages, I study HTML5, CSS3, JavaScript, MySQL.
 
 * 🌍  I'm based in Montana
-* ✉️  You can contact me at [strahil1998@abv.bg](mailto:strahil1998@abv.bg)
+* ✉️  You can contact me at [strahil2798@outlook.com](mailto:strahil1998@abv.bg)
 * 🚀  I'm currently working on [Shopping Website](http://github.com/StrahilDimitrov/Shopping_site)
 * 🧠  I'm learning HTML5, CSS3, JavaScript, MySQL, React, JQuery
 * 🤝  I'm open to collaborating on Create mobile app and website
