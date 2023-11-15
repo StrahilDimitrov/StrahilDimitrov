@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Strahil Dimitrov
+Hi 👋 My name is Strahil Dimitrov
 ========================================================================================================================================
 
 I have been studying programming for 3 years, mainly dealing with the creation of websites and mobile applications. As languages, I study HTML5, CSS3, JavaScript, MySQL.
