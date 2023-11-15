@@ -4,7 +4,7 @@ Hi 👋 My name is Strahil Dimitrov
 I have been studying programming for 3 years, mainly dealing with the creation of websites and mobile applications. As languages, I study HTML5, CSS3, JavaScript, MySQL.
 
 * 🌍  I'm based in Montana
-* ✉️  You can contact me at [strahil1998@abv.bg](mailto:strahil2798@outlook.com)
+* ✉️  You can contact me at [strahil2798@outlook.com](mailto:strahil2798@outlook.com)
 * 🚀  I'm currently working on [Shopping Website](http://github.com/StrahilDimitrov/Shopping_site)
 * 🧠  I'm learning HTML5, CSS3, JavaScript, MySQL, React, JQuery
 * 🤝  I'm open to collaborating on Create mobile app and website
