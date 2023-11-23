@@ -5,8 +5,7 @@ I have been studying programming for 3 years, mainly dealing with the creation o
 
 * 🌍  I'm based in Montana
 * ✉️  You can contact me at [strahil2798@outlook.com](mailto:strahil2798@outlook.com)
-* 🚀  I'm currently working on [Shopping Website](http://github.com/StrahilDimitrov/Shopping_site)
-* 🧠  I'm learning HTML5, CSS3, JavaScript, MySQL, React, JQuery
+* 🧠  I'm learning HTML5, CSS3, JavaScript, MySQL, React
 * 🤝  I'm open to collaborating on Create mobile app and website
 
 <a href="https://www.github.com/StrahilDimitrov" target="_blank" rel="noreferrer"><img
